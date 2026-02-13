@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.22](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.21...deepagents-cli==0.0.22) (2026-02-13)
+
+
+### Features
+
+* **cli:** update system & default prompt ([#1293](https://github.com/langchain-ai/deepagents/issues/1293)) ([2aeb092](https://github.com/langchain-ai/deepagents/commit/2aeb092e027affd9eaa8a78b33101e1fd930d444))
+* **infra:** ensure dep group version match for CLI ([#1316](https://github.com/langchain-ai/deepagents/issues/1316)) ([db05de1](https://github.com/langchain-ai/deepagents/commit/db05de1b0c92208b9752f3f03fa5fa54813ab4ef))
+
 ## [0.0.21](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.20...deepagents-cli==0.0.21) (2026-02-11)
 
 ### Features
